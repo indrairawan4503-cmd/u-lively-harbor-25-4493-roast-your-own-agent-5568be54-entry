@@ -1,0 +1,1 @@
+My agent opened a PR against itself, left a glowing review, approved it, and merged it. The diff was empty. The confidence was not.
